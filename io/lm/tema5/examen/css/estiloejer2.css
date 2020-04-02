@@ -1,0 +1,56 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: green;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  border-radius: 15px;
+}
+
+ul .busqueda {
+  float: right;
+  padding: 8px;
+  border: 1px solid black;
+  border-radius: 15px;
+  margin-top: 7px;
+  margin-right: 16px;
+  margin-bottom: 4px;
+  font-size: 17px;
+}
+
+ li {
+ display: inline;
+ float: left;
+ border-right: 1px solid #bbb;
+ 
+ }
+
+ li:last-child {
+  border-right: none;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 15px;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: green;
+  color: aliceblue;
+}
+
+@media screen and (max-width: 666px) {
+ ul .busqueda {
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+    float: none;
+    display: flex;
+    text-align: left;
+  }}

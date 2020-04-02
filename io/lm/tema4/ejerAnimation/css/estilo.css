@@ -1,0 +1,9 @@
+img {
+    width: 200px;
+animation: guitarra 2s ease 1s 3 alternate forwards;
+}
+@keyframes guitarra {
+    100% {
+        transform: rotate(360deg);
+    }
+}

@@ -1,0 +1,21 @@
+body {
+    width: 500px;
+    margin: 0px;
+}
+h1 {
+  position: fixed;
+  top: 0;
+} 
+p:nth-of-type(1) {
+margin-top: 60px;
+}
+.positioned {
+    position: fixed;
+    background: rgba(255,84,103,.3);
+    bottom: 0;
+    right: 0;
+    padding: 40px;
+    margin: 10px;
+    border: 2px solid rgb(255,84,104);
+    border-radius: 5px;
+}

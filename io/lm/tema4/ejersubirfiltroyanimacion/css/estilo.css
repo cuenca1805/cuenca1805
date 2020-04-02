@@ -1,0 +1,39 @@
+img {width:15% ;
+height: 15%; }
+header {
+    border: springgreen solid;
+}
+#img3 {
+    display: block;
+    -webkit-filter: sepia(1);
+    filter: sepia(1);
+    animation: guitarra 2s ease-in 1s 3 alternate-reverse;
+
+}
+@keyframes guitarra {
+    100% {
+        transform-box: (2700deg);
+    }
+}
+#img1 {
+    display: block;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+    animation: guitarra 2s ease 1ms 3 alternate-reverse;
+}
+@keyframes guitarra {
+    80% {
+        transform: rotate(360deg);
+    }
+
+}#img2 {
+    display: block;
+    -webkit-filter: invert(1);
+    filter: invert(1);
+    animation: guitarra 2s ease-in-out 1s 3 alternate forwards;
+}
+@keyframes guitarra {
+    100% {
+        transform: rotate(360deg);
+    }
+}

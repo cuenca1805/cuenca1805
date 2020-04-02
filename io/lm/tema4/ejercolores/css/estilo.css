@@ -1,0 +1,25 @@
+article {
+    background-color: #f0f4c3 ;
+  width: 350px;
+    padding: 20px;
+    border: 8px solid #827717 ;
+}
+a:hover {
+    font-size: 40px;
+    border-top-right-radius: 10px;border-bottom-left-radius: 10px;
+    border: solid;border-top-left-radius: 0px;border-bottom-right-radius: 0px;
+    background-color: lawngreen;
+}
+a {
+border: solid;border-top-left-radius: 10px;border-bottom-right-radius: 10px;
+}
+section {
+    border: 15px solid black;
+    width: 406px;
+}
+p {
+    color:green;
+}
+h1 {
+    color: hotpink;
+}

@@ -1,0 +1,44 @@
+header, main, section, aside, footer {
+  display: block;
+  margin: 0;
+  padding: 10px;
+  border: 1px solid silver;
+  color: black
+}
+main {
+  
+ background-color: grey;
+  
+
+
+}
+#header {
+  background-color: red;
+  
+}
+#hero {
+  background-color: yellowgreen;
+  
+}
+@media (min-width: 640px) {
+  .flex{
+    display: flex;
+  }
+}
+#content{
+  flex: 1 1 500px;
+  background-color: yellow;
+  
+}
+#sidebar {
+  flex: 0 1 320px ;
+  background-color: thistle;
+  border: 1px solid black;
+  
+}
+#footer{
+  background-color: purple;
+  
+}
+ 
+

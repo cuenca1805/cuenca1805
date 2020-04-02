@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+  <channel>
+    <title>Juan Antonio Cuenca Martínez. Ejercicios XML</title>
+    <link>https://cuenca1805.github.io</link>
+    <description>Página personal</description>
+      <item>
+        <title>Ejercicio 1 </title>
+        <link>https://cuenca1805.github.io/io/lm/tema4/</link>
+        <description>tema 4</description>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+#img1 {
+    display: block;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+#img2 {
+    display: block;
+    -webkit-filter: invert(1);
+    filter: invert(1);
+}
+#img3 {
+    display: block;
+    -webkit-filter: sepia(1);
+    filter: sepia(1);
+}
+header {
+    border: springgreen solid;
+}
