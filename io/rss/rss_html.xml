@@ -5,8 +5,13 @@
     <link>https://cuenca1805.github.io</link>
     <description>Página personal</description>
       <item>
-        <title>Ejercicio 1</title>
-        <link>https://cuenca1805.github.io/io/lm/tema4/</link>
+        <title>Ejercicio 3</title>
+        <link>https://cuenca1805.github.io/io/lm/tema7alreves/ejer3.xhtml</link>
+        <description>tema 6</description>
+      </item>
+    <item>
+        <title>Ejercicio 4</title>
+        <link>https://cuenca1805.github.io/io/lm/tema7alreves/ejer4.xhtml</link>
         <description>tema 6</description>
       </item>
   </channel>
